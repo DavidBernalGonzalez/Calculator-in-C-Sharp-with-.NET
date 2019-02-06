@@ -6,14 +6,6 @@ Hi! I'm David Bernal Gonzalez and I make a **Calculator** project. This it's a p
 **Language: C#**
 **Framework: .NET**
 **IDE: Visual Studio Code**
-# Video demonstration
-<div align="center">
-    <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/hR2Zqqmrucs" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe>
-</div>
 
 # Explain the project
 ![](CalculadoraII/img/filesI.jpg)
