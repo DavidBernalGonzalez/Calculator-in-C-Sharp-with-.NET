@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\bin\Debug\CalculadoraII.exe.config
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\bin\Debug\CalculadoraII.exe
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\bin\Debug\CalculadoraII.pdb
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\obj\Debug\CalculadoraII.FormMain.resources
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\obj\Debug\CalculadoraII.Form2.resources
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\obj\Debug\CalculadoraII.Form3.resources
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\obj\Debug\CalculadoraII.Properties.Resources.resources
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\obj\Debug\CalculadoraII.exe
+C:\Users\David\Desktop\MegaCursos\C# y .NET\Ejercicios\mios\Calculadora\CalculadoraII\obj\Debug\CalculadoraII.pdb
