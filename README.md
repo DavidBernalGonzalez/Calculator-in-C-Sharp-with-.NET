@@ -10,7 +10,6 @@ Hi! I'm David Bernal Gonzalez and I make a **Calculator** project. This it's a p
 # Explain the project
 ![](CalculadoraII/img/filesI.jpg)
 ## First folder
-
 |File                |Do                          
 |----------------|-------------------------------|
 |Calculadora.sln|`'Contains the solution for open the project with the IDE.'`            
